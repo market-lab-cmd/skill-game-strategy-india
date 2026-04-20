@@ -26,3 +26,5 @@ Content must be:
 - No promotional intent
 - No duplicate content
 - Must be educational
+- Article sequence number must be assigned before generation
+- Every generated article must be added to README with link
