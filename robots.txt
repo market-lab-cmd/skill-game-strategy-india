@@ -1,2 +1,11 @@
 User-agent: *
 Allow: /
+
+# 禁止抓取源码目录（如果你使用 content/）
+Disallow: /content/
+
+# 允许资源文件
+Allow: /assets/
+
+# Sitemap
+Sitemap: https://market-lab-cmd.github.io/skill-game-strategy-india/sitemap.xml
