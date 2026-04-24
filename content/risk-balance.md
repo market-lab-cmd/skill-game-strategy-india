@@ -12,7 +12,7 @@ Better risk balance does not mean becoming timid. It means choosing the moments 
 
 ## Risk Balance Overview
 
-![Skill game risk balance review scene with planning notes, trade-off board, and focused study setup](../assets/images/risk-balance.png)
+![Skill game risk balance review scene with planning notes, trade-off board, and focused study setup](../assets/images/risk-balance.webp)
 
 ---
 

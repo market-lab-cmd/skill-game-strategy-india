@@ -12,7 +12,7 @@ Strong pattern recognition is quiet. It makes your decisions more precise withou
 
 ## Pattern Recognition Overview
 
-![Skill game pattern recognition study setup with diagrams, repeated sequence notes, and focused review environment](../assets/images/pattern-recognition.png)
+![Skill game pattern recognition study setup with diagrams, repeated sequence notes, and focused review environment](../assets/images/pattern-recognition.webp)
 
 ---
 

@@ -12,7 +12,7 @@ Advanced play is not about sounding complex. It is about understanding deeper la
 
 ## Advanced Concepts Overview
 
-![Skill game advanced concepts study scene with layered notes, diagrams, and focused analysis workspace](../assets/images/advanced-concepts.png)
+![Skill game advanced concepts study scene with layered notes, diagrams, and focused analysis workspace](../assets/images/advanced-concepts.webp)
 
 ---
 

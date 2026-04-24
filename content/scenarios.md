@@ -12,7 +12,7 @@ Players often improve faster from one well-reviewed scenario than from several p
 
 ## Scenarios Overview
 
-![Skill game scenario review scene with notebook sketches, example positions, and calm teaching workspace](../assets/images/scenarios.png)
+![Skill game scenario review scene with notebook sketches, example positions, and calm teaching workspace](../assets/images/scenarios.webp)
 
 ---
 

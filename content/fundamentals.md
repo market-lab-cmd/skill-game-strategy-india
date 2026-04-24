@@ -12,7 +12,7 @@ If you want better results in skill games, the first question is rarely "What ad
 
 ## Fundamentals Overview
 
-![Skill gaming fundamentals study scene with notebook, board notes, and calm analysis setup](../assets/images/fundamentals.png)
+![Skill gaming fundamentals study scene with notebook, board notes, and calm analysis setup](../assets/images/fundamentals.webp)
 
 ---
 

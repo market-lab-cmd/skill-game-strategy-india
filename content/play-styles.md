@@ -12,7 +12,7 @@ A useful style read is never just a personality guess. It is a decision tool bui
 
 ## Play Styles Overview
 
-![Skill game play styles comparison scene with notes, discussion board, and calm strategy workspace](../assets/images/play-styles.png)
+![Skill game play styles comparison scene with notes, discussion board, and calm strategy workspace](../assets/images/play-styles.webp)
 
 ---
 

@@ -12,7 +12,7 @@ When players review bad sessions honestly, many of the biggest losses come from 
 
 ## Decision Making Overview
 
-![Skill game decision making analysis scene with notes, diagrams, and focused study posture](../assets/images/decision-making.png)
+![Skill game decision making analysis scene with notes, diagrams, and focused study posture](../assets/images/decision-making.webp)
 
 ---
 

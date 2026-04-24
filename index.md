@@ -12,7 +12,7 @@ This home page is written for readers who want useful strategy notes they can re
 
 ## Site Overview
 
-![Skill Game Strategy India overview with a calm study desk, notebook, whiteboard, and thoughtful practice setup](./assets/images/overview.png)
+![Skill Game Strategy India overview with a calm study desk, notebook, whiteboard, and thoughtful practice setup](./assets/images/overview.webp)
 
 ---
 

@@ -12,7 +12,7 @@ Better awareness usually does not look dramatic. It looks like fewer rushed assu
 
 ## Game Awareness Overview
 
-![Skill game awareness study scene with whiteboard, position notes, and careful observation setup](../assets/images/game-awareness.png)
+![Skill game awareness study scene with whiteboard, position notes, and careful observation setup](../assets/images/game-awareness.webp)
 
 ---
 

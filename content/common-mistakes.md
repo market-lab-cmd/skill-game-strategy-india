@@ -12,7 +12,7 @@ When players write better review notes, they usually stop saying "I played badly
 
 ## Common Mistakes Overview
 
-![Skill game common mistakes review setup with notes, highlighted errors, and calm study environment](../assets/images/common-mistakes.png)
+![Skill game common mistakes review setup with notes, highlighted errors, and calm study environment](../assets/images/common-mistakes.webp)
 
 ---
 

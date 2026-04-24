@@ -12,7 +12,7 @@ Most review notes around strategy are really about sequencing. The player chose 
 
 ## Strategic Thinking Overview
 
-![Skill game strategic thinking workspace with planning notes, future sequence sketches, and thoughtful analysis setup](../assets/images/strategic-thinking.png)
+![Skill game strategic thinking workspace with planning notes, future sequence sketches, and thoughtful analysis setup](../assets/images/strategic-thinking.webp)
 
 ---
 
